@@ -1,3 +1,3 @@
-# Sandbox
+# What is this repository?
 
-This repository was made for trials of Github service.
+I use this repository to found out how Github works.

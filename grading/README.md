@@ -24,7 +24,7 @@
     - Flip
     - Increment
     - Size table
-    - Copy & past
+    - Copy & paste
     - Size management
 - 유스케이스
     - DXF 불러오기
@@ -144,7 +144,7 @@ size table은 사이즈 별로 오프셋을 자유롭게 지정하고 싶을 때
 대부분의 상황에선 이렇게 일정한 간격을 유지하는 것이 편하지만 M과 L의 차이를 1.5cm 나게끔 하고 싶을 수도 있습니다.
 이런 경우에 사용자는 표에 값을 직접 기입해서 오프셋을 각각 다르게 가져갈 수 있습니다.
 
-6 Copy & past
+6 Copy & paste
 ------------
 
 ![copy-paste](layout-copy-paste.png)

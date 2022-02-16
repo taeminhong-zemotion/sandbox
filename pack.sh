@@ -39,7 +39,7 @@ find . -path ./.git -prune -o -type f -exec sha1sum {} + | while read -r line
         to="$DEST/${hash:0:2}/${hash}"
         if [ ! -e "$to" ]
         then
-            mkdir -p "$(dirname "$to")" && cp -a "$from" "$to" || exit 1
+            mkdir -p "$(dirname "$to")" && cp "$from" "$to" || exit 1
         fi
         echo "$line"
     done

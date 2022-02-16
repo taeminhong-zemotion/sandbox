@@ -20,7 +20,7 @@ usage () {
 	die "usage: $USAGE"
 }
 
-while [ $# != 0 ] && [ -z "$command" ]
+while [ $# != 0 ]
 do
 	case "$1" in
     --prefix|-p)

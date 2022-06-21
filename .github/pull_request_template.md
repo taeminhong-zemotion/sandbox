@@ -1,3 +1,5 @@
+<!-- This is a template for pull requests -->
+
 PR type <!-- Bug fix, New feature, or Refactoring -->
 -------
 
